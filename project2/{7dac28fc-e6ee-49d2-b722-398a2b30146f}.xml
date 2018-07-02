@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2017/11/17" author="e.World Technology Ltd.">
+  <project id="{7dac28fc-e6ee-49d2-b722-398a2b30146f}" file="" name="project2" product="PHPMaker" version="14.0" datetime="2017/11/17 01:29:44" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="college" name="college" caption="College" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="faculty" name="faculty" caption="Faculty" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="result" name="result" caption="Result" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="student" name="student" caption="Student" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="subject" name="subject" caption="Subject" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
